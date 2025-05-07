@@ -23,6 +23,10 @@ p {
 
 /* 以下のスタイルを追加 */
 
+button.btn-lg {
+  background-color: #17a2b8;
+}
+
 .card {
   border-radius: 0;
 }
