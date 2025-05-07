@@ -21,6 +21,12 @@ p {
   padding: 0 20px;
 }
 
+/* 以下のスタイルを追加 */
+
+.card {
+  border-radius: 0;
+}
+
 .result {
   padding: 60px 20px 20px;
 }
